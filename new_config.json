@@ -5,33 +5,23 @@
 	"instructions": [
 		{
 			"imageName": "roma",
-			"description": "Escolha uma das alternativas!",
-			"arElements": [
-				{
-					"type": 0,
-					"position": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"rotation": {
+			"description": "A Torre Eiffel pertence a qual pais?",
+			"painelPosition": {
+						"x": 0.2423,
+						"y": 0.0739,
+						"z": -0.131
+					  },
+			"painelEulerAngle": {
 						"x": 90,
 						"y": 0,
 						"z": 0
 					},
-					"scale": {
+			"painelScale": {
 						"x": 1,
 						"y": 1,
 						"z": 1
 					},
-					"objectName": "",
-					"description": "A Torre Eiffel pertence a qual pais?",
-					"subtexts": [
-						"1) Franca",
-						"2) Paris",
-						"3) Italia"
-					]
-				},
+			"arElements": [
 				{
 					"type": 1,
 					"position": {
@@ -54,53 +44,43 @@
 					"subtexts": []
 				}
 			],
-			"actions": [
+			"answers": [
 				{
 					"description": "1",
-					"nextImageID": "torre_eiffel",
+					"nextImage": "torre_eiffel",
 					"resultText": "Parabéns você acertou Va para a sala 501"
 				},
 				{
 					"description": "2",
-					"nextImageID": "torre_eiffel",
+					"nextImage": "torre_eiffel",
 					"resultText": "Infelizmente você errou, Paris é a capital da França, vá para sala 501"
 				},
 				{
 					"description": "3",
-					"nextImageID": "torre_eiffel",
+					"nextImage": "torre_eiffel",
 					"resultText": "Infelizmente você errou, a torre Eiffel não fica na Italia, vá para sala 501"
 				}
 			]
 		},
 		{
 			"imageName": "torre_eiffel",
-			"description": "Escolha uma das alternativas!",
-			"arElements": [
-				{
-					"type": 0,
-					"position": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"rotation": {
+			"description": "Qual é a capital da França?",
+			"painelPosition": {
+						"x": 0.2423,
+						"y": 0.0739,
+						"z": -0.131
+					  },
+			"painelEulerAngle": {
 						"x": 90,
 						"y": 0,
 						"z": 0
 					},
-					"scale": {
+			"painelScale": {
 						"x": 1,
 						"y": 1,
 						"z": 1
 					},
-					"objectName": "",
-					"description": "Qual é a capital da França?",
-					"subtexts": [
-						"1) Franca",
-						"2) Paris",
-						"3) Italia"
-					]
-				},
+			"arElements": [
 				{
 					"type": 1,
 					"position": {
@@ -123,53 +103,28 @@
 					"subtexts": []
 				}
 			],
-			"actions": [
+			"answers": [
 				{
 					"description": "1",
-					"nextImageID": "logo_pucrs",
+					"nextImage": "logo_pucrs",
 					"resultText": "Infelizmente você errou, a França não é a capital da França, vá para a sala 502"
 				},
 				{
 					"description": "2",
-					"nextImageID": "logo_pucrs",
+					"nextImage": "logo_pucrs",
 					"resultText": "Parabéns você acertou, vá para a sala 502"
 				},
 				{
 					"description": "3",
-					"nextImageID": "logo_pucrs",
+					"nextImage": "logo_pucrs",
 					"resultText": "Infelizmente você errou, a Italia não é a capital da França vá para sala 502"
 				}
 			]
 		},
 		{
 			"imageName": "logo_pucrs",
-			"description": "Escolha uma das alternativas!",
+			"description": "O Coliseu pertence a qual pais?",
 			"arElements": [
-				{
-					"type": 0,
-					"position": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"rotation": {
-						"x": 90,
-						"y": 0,
-						"z": 0
-					},
-					"scale": {
-						"x": 1,
-						"y": 1,
-						"z": 1
-					},
-					"objectName": "",
-					"description": "O Coliseu pertence a qual pais?",
-					"subtexts": [
-						"1) Franca",
-						"2) Paris",
-						"3) Italia"
-					]
-				},
 				{
 					"type": 1,
 					"position": {
@@ -192,85 +147,34 @@
 					"subtexts": []
 				}
 			],
-			"actions": [
+			"answers": [
 				{
 					"description": "1",
-					"nextImageID": "predio_32",
+					"nextImage": "predio_32",
 					"resultText": "Infelizmente você errou, o Coliseu não fica na França, vá para a sala 503"
 				},
 				{
 					"description": "2",
-					"nextImageID": "predio_32",
+					"nextImage": "predio_32",
 					"resultText": "Infelizmente você errou, o Coliseu não fica na França, vá para a sala 503"
 				},
 				{
 					"description": "3",
-					"nextImageID": "predio_32",
+					"nextImage": "predio_32",
 					"resultText": "Parabéns você acertou, vá para a sala 503"
 				}
 			]
 		},
 		{
 			"imageName": "predio_32",
-			"description": "Pressione 'OK'para repetir",
-			"arElements": [
-				{
-					"type": 0,
-					"position": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"rotation": {
-						"x": 90,
-						"y": 0,
-						"z": 0
-					},
-					"scale": {
-						"x": 1,
-						"y": 1,
-						"z": 1
-					},
-					"objectName": "",
-					"description": "Obrigado por participar!!!",
-					"subtexts": []
-				}
-			],
+			"description": "Obrigado por participar!!!",
+			"arElements": [],
 			"actions": [
 				{
 					"description": "OK",
-					"nextImageID": "roma",
+					"nextImage": "roma",
 					"resultText": "Volte para a sala 500"
 				}
-			]
-		},
-		{
-			"imageName": "etiqueta_1",
-			"description": "FIM",
-			"arElements": [
-				{
-					"type": 0,
-					"position": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"rotation": {
-						"x": 90,
-						"y": 0,
-						"z": 0
-					},
-					"scale": {
-						"x": 1,
-						"y": 1,
-						"z": 1
-					},
-					"objectName": "",
-					"description": "Parabens, voce finalizou o jogo!",
-					"subtexts": []
-				}
-			],
-			"actions": [
 			]
 		}
 	]
