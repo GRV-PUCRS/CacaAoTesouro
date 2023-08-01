@@ -1,7 +1,7 @@
 {
     "firstMessage": "Find the Eiffel Tower image",
-	"currentImage": "torre_eiffel",
-	"nextImage": "torre_eiffel",
+	"currentImage": "fox",
+	"nextImage": "fox",
 	"instructions": [
 		{
 			"imageName": "fox",
