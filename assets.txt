@@ -2,5 +2,4 @@ Assets/Coliseu.zip
 Assets/Dragon.zip
 Assets/Skull.zip
 Assets/TorreEiffel.zip
-Assets/Velociraptor.zip
 Assets/Woody.zip
