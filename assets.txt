@@ -4,3 +4,4 @@ Assets/Skull.zip
 Assets/TorreEiffel.zip
 Assets/Velociraptor.zip
 Assets/Woody.zip
+Assets/Fox.zip
