@@ -2,3 +2,6 @@ Assets/Dragon.zip
 Assets/Skull.zip
 Assets/Woody.zip
 Assets/Fox.zip
+Assets/Coliseu.zip
+Assets/TorreEiffel.zip
+Assets/Velociraptor.zip
