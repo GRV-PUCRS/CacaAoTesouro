@@ -1,0 +1,8 @@
+Images/etiqueta_1.png
+Images/fox.png
+Images/Logo_Pucrs.png
+Images/predio_32.png
+Images/roma.png
+Images/torre_eiffel.png
+Images/toystory.ong
+Images/velociraptor.png
