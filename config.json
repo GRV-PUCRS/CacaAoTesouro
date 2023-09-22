@@ -1,1 +1,178 @@
-{"FirstMessage":"Primeira Mensagem","CurrentImage":"","NextImages":["etiqueta_1"],"FirstImages":["etiqueta_1"],"Clues":[{"ImageName":"etiqueta_1","GeneralDescription":"Descricao Geral","Description":"Descricao 1\n","ArElements":[{"Type":1,"Position":{"X":-7.450581E-09,"Y":0.2,"Z":-0.2},"Rotation":{"X":270.0,"Y":180.0,"Z":0.0},"Scale":{"X":1.0,"Y":1.0,"Z":1.0},"ObjectName":"Raposa"},{"Type":1,"Position":{"X":0.100000009,"Y":0.2,"Z":-0.2},"Rotation":{"X":270.0,"Y":179.999969,"Z":0.0},"Scale":{"X":1.0,"Y":1.0,"Z":1.0},"ObjectName":"Woody"}],"Alternatives":[{"Description":"Alt 1","NextImages":["fox"],"ResultText":"Result 1"},{"Description":"Alt 2","NextImages":["fox"],"ResultText":"Result 2"},{"Description":"Alt 3","NextImages":["fox"],"ResultText":"Result 3"}],"Position":{"X":7.450581E-09,"Y":0.05,"Z":0.0},"Rotation":{"X":90.0,"Y":0.0,"Z":0.0},"Scale":{"X":1.0,"Y":1.0,"Z":1.0}},{"ImageName":"fox","GeneralDescription":"???","Description":"???","ArElements":[],"Alternatives":[],"Position":{"X":0.0,"Y":0.0,"Z":0.0},"Rotation":{"X":0.0,"Y":0.0,"Z":0.0},"Scale":{"X":1.0,"Y":1.0,"Z":1.0}}],"ImagesLink":"???","ObjectsLink":"???"}
+{
+  "FirstMessage": "Find the drawing of the Eiffel Tower",
+  "CurrentImage": "",
+  "NextImages": [
+    "torre_eiffel"
+  ],
+  "FirstImages": [
+    "torre_eiffel"
+  ],
+  "Clues": [
+    {
+      "ImageName": "torre_eiffel",
+      "GeneralDescription": "In which country is the Eiffel Tower located?",
+      "Description": "Select one of the alternatives",
+      "ArElements": [
+        
+      ],
+      "Alternatives": [
+        {
+          "Description": "Paris",
+          "NextImages": [
+            "fox"
+          ],
+          "ResultText": "Wrong, it's in France. Find a drawing of a animal"
+        },
+        {
+          "Description": "France",
+          "NextImages": [
+            "fox"
+          ],
+          "ResultText": "Correct. Find a drawing of a animal"
+        },
+        {
+          "Description": "Italy",
+          "NextImages": [
+            "fox"
+          ],
+          "ResultText": "Wrong, it's in France. Find a drawing of a animal"
+        }
+      ],
+      "Position": {
+        "X": 7.450581E-09,
+        "Y": 0.05,
+        "Z": 0.0
+      },
+      "Rotation": {
+        "X": 90.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    },
+    {
+      "ImageName": "fox",
+      "GeneralDescription": "Select one of the alternatives",
+      "Description": "What is the name of this animal?",
+      "ArElements": [],
+      "Alternatives": [
+        {
+          "Description": "Wolf",
+          "NextImages": [
+            "toystory"
+          ],
+          "ResultText": "Wrong, it's a fox. Find a drawing of Toy Story"
+        },
+        {
+          "Description": "Dog",
+          "NextImages": [
+            "toystory"
+          ],
+          "ResultText": "Wrong, it's a fox. Find a drawing of Toy Story"
+        },
+        {
+          "Description": "Fox",
+          "NextImages": [
+            "toystory"
+          ],
+          "ResultText": "Correct. Find a drawing of Toy Story"
+        }
+      ],
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Rotation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    },
+    {
+      "ImageName": "toystory",
+      "GeneralDescription": "Select one of the alternatives",
+      "Description": "What is the name of this Toy Story character?",
+      "ArElements": [],
+      "Alternatives": [
+        {
+          "Description": "Woody",
+          "NextImages": [
+            "Logo_Pucrs"
+          ],
+          "ResultText": "Correct. Find the PUCRS logo"
+        },
+        {
+          "Description": "Cowboy",
+          "NextImages": [
+            "toystory"
+          ],
+          "ResultText": "Wrong. Try Agan."
+        },
+        {
+          "Description": "Buzz Lightyear",
+          "NextImages": [
+            "toystory"
+          ],
+          "ResultText": "Wrong. Try Agan."
+        }
+      ],
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Rotation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    },
+    {
+      "ImageName": "Logo_Pucrs",
+      "GeneralDescription": "",
+      "Description": "Congratulations, you found the treasure",
+      "ArElements": [],
+      "Alternatives": [
+        {
+          "Description": "Ok",
+          "NextImages": [
+            "torre_eiffel"
+          ],
+          "ResultText": "Go back to the first image to restart the game."
+        }
+      ],
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Rotation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "Scale": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  ],
+  "ImagesLink": "???",
+  "ObjectsLink": "???"
+}
