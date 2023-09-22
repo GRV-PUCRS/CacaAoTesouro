@@ -19,21 +19,21 @@
         {
           "Description": "Paris",
           "NextImages": [
-            "fox"
+            "Bacteria"
           ],
           "ResultText": "Wrong, it's in France. Find a drawing of a animal"
         },
         {
           "Description": "France",
           "NextImages": [
-            "fox"
+            "Bacteria"
           ],
           "ResultText": "Correct. Find a drawing of a animal"
         },
         {
           "Description": "Italy",
           "NextImages": [
-            "fox"
+            "Bacteria"
           ],
           "ResultText": "Wrong, it's in France. Find a drawing of a animal"
         }
@@ -55,27 +55,27 @@
       }
     },
     {
-      "ImageName": "fox",
+      "ImageName": "Bacteria",
       "GeneralDescription": "Select one of the alternatives",
-      "Description": "What is the name of this animal?",
+      "Description": "What is the name of this device?",
       "ArElements": [],
       "Alternatives": [
         {
-          "Description": "Wolf",
+          "Description": "Stethoscope",
           "NextImages": [
             "toystory"
           ],
-          "ResultText": "Wrong, it's a fox. Find a drawing of Toy Story"
+          "ResultText": "Wrong, it's a Microscope. Find a drawing of Toy Story"
         },
         {
-          "Description": "Dog",
+          "Description": "Thermometer",
           "NextImages": [
             "toystory"
           ],
-          "ResultText": "Wrong, it's a fox. Find a drawing of Toy Story"
+          "ResultText": "Wrong, it's a Microscope. Find a drawing of Toy Story"
         },
         {
-          "Description": "Fox",
+          "Description": "Microscope",
           "NextImages": [
             "toystory"
           ],
