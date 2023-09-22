@@ -19,21 +19,21 @@
         {
           "Description": "Paris",
           "NextImages": [
-            "Bacteria"
+            "bacteria"
           ],
           "ResultText": "Wrong, it's in France. Find a drawing of a animal"
         },
         {
           "Description": "France",
           "NextImages": [
-            "Bacteria"
+            "bacteria"
           ],
           "ResultText": "Correct. Find a drawing of a animal"
         },
         {
           "Description": "Italy",
           "NextImages": [
-            "Bacteria"
+            "bacteria"
           ],
           "ResultText": "Wrong, it's in France. Find a drawing of a animal"
         }
@@ -55,7 +55,7 @@
       }
     },
     {
-      "ImageName": "Bacteria",
+      "ImageName": "bacteria",
       "GeneralDescription": "Select one of the alternatives",
       "Description": "What is the name of this device?",
       "ArElements": [],
