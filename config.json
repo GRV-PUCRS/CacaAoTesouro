@@ -10,8 +10,8 @@
   "Clues": [
     {
       "ImageName": "torre_eiffel",
-      "GeneralDescription": "In which country is the Eiffel Tower located?",
-      "Description": "Select one of the alternatives",
+      "GeneralDescription": "Select one of the alternatives",
+      "Description": "In which country is the Eiffel Tower located?",
       "ArElements": [
         
       ],
