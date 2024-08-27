@@ -4,6 +4,6 @@ Images/Logo_Pucrs.png
 Images/predio_32.png
 Images/roma.png
 Images/torre_eiffel.png
-Images/toystory.ong
+Images/toystory.png
 Images/tesouro.png
 Images/velociraptor.png
