@@ -5,5 +5,5 @@ Images/predio_32.png
 Images/roma.png
 Images/torre_eiffel.png
 Images/toystory.ong
+Images/tesouro.png
 Images/velociraptor.png
-Images/tesouro.jpg
