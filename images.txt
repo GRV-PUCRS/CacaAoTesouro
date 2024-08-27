@@ -6,3 +6,4 @@ Images/roma.png
 Images/torre_eiffel.png
 Images/toystory.ong
 Images/velociraptor.png
+Images/tesouro.jpg
