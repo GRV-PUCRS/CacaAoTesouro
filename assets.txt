@@ -5,4 +5,5 @@ Assets/TreasureChest.zip
 Assets/Coliseu.zip
 Assets/TorreEiffel.zip
 Assets/Velociraptor.zip
+Assets/Arrow.zip
 Assets/Fox.zip
